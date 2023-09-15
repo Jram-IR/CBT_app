@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104800662536",
+    "project_id": "cbt-app-db",
+    "storage_bucket": "cbt-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104800662536:android:5d09821e38de5900530dbd",
+        "android_client_info": {
+          "package_name": "com.project.cbtapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkrHvxmaTM6xE21skCZb4E8JDDjn1lSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
